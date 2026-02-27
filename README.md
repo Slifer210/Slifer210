@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">Backend-focused Fullstack Developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slifer210" alt="slifer210" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Slifer210" alt="slifer210" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Platform**
 
