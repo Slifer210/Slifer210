@@ -91,15 +91,15 @@
 
 <p align="center">
 <a href="https://github.com/Slifer210">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Slifer210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slifer210&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Slifer210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slifer210&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p>>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Slifer210&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slifer210&theme=algolia" />
 </p>
