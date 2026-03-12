@@ -13,8 +13,8 @@
 ## 🚀 Sobre mí
 
 - ⭐ Backend-focused Fullstack Developer  
-- 👨🏼‍🎓 Estudiante de Ingeniería de Sistemas — Universidad Privada del Norte  
-- 💻 Actualmente construyendo una Ecommerce Platform real  
+- 👨🏼‍🎓 Egresado de Ingeniería de Sistemas — Universidad Privada del Norte  
+- 💻 Actualmente construyendo una plataforma Ecommerce
 - 🧠 Interesado en Backend Architecture, System Design y AI  
 - 📖 Me considero una persona autodidacta y orientada a resolver problemas  
 
